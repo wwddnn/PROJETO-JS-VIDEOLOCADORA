@@ -1,0 +1,42 @@
+
+* {
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: cornsilk;
+}
+
+
+.empresa {
+    font-size: 35px;
+    color: cornflowerblue;
+    display: flex;
+    margin: 0 auto;
+    justify-content: center;
+}
+
+#btConverter {
+    background-color: coral;
+    border-radius: 10px;
+    height: 30px;
+    border: none;
+    width: 245px;
+    margin: 0 141px;
+}
+
+.card {
+    display: block;
+    background-color: cornflowerblue;
+    padding: 10px;
+    margin: 0 auto;
+    width: 600px;
+}
+
+.input {
+    background-color: blanchedalmond;
+    color: cornflowerblue;
+    border-radius: 10px;
+    padding: 10px 10px;
+    height: 25px;
+    font-size: 20px;
+    border: none;
+}
