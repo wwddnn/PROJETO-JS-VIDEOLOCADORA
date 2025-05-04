@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/e7701769-4e01-4e10-8e2c-2e419483e567)## 🎯SOBRE O PROJETO:
+## 🎯SOBRE O PROJETO:
 - Front end desenvolvido com objetivo de receber o nome do filme e sua duração em minutos, e transformar para a duração em horas + minutos.
 
 ## ✅CONHECIMENTOS:
